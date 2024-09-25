@@ -1,0 +1,27 @@
+h1 {
+    color: #ff1675;
+    font-size: 18px;
+}
+
+h2 {
+    color: #ffffff;
+    font-size: 48px;
+}
+
+p {
+    color: #ffffff;
+}
+
+a {
+    color: #ffffff;
+    background-color: #ff1675;
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 50% 50% 50% 50%;
+}
+
+body {  
+font-family:sans-serif;
+background: rgb(101,23,88);
+background: linear-gradient(90deg, rgba(101,23,88,1) 0%, rgba(49,21,98,1) 35%, rgba(27,24,52,1) 100%);
+}
